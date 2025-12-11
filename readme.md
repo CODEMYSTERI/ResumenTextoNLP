@@ -117,7 +117,7 @@ context_vector = sum(attention_weights * encoder_output)
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/sistema-resumen-automatico.git
+git clone https://github.com/Dairo-Delgadillo-DEv/sistema-resumen-automatico.git
 cd sistema-resumen-automatico
 ```
 
@@ -424,9 +424,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Tu Nombre**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@tu-usuario](https://github.com/Dairo-Delgadillo-DEv)
+- LinkedIn: [Tu Perfil](https://linkedin.com/in/dairo-delgadillo-dairo-delgadillo-dev)
+- Email: dairodelgadillo302@gmail.com
 
 ---
 
