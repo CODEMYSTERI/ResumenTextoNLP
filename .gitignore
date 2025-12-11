@@ -1,0 +1,74 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Modelos entrenados (son muy grandes)
+modelos/*.h5
+modelos/*.pkl
+modelos/*.hdf5
+
+# Datos (pueden ser grandes)
+datos/*.csv
+datos/*.txt
+datos/*.json
+
+# Logs y resultados
+logs/*.log
+logs/*/
+resultados/*.png
+resultados/*.jpg
+resultados/*.pdf
+resultados/*.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TensorBoard
+events.out.tfevents.*
+
+# Caché de pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.backup
